@@ -1,0 +1,19 @@
+***BATTLE CITY***
+Find Battle City/Debug/Battle City.exe to run the game
+***========***
+
+
+
+Game operation button:
+¡û£ºleft
+¡ú£ºright
+¡ü £ºup
+¡ý £ºdown
+space£ºfire
+Q£ºFire in four directions(left,right,up,down)
+Enter£ºstart/exit/pause
+
+
+
+This is a console program written in C + +, which uses EasyX graphics library. 
+This is EasyX official website: https://easyx.cn

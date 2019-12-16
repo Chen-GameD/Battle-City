@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\CMY\Desktop\Portfolio\Battle City-Chen Mingyuan portfolio-1\Battle City\Battle City\SuperWeapon.h(6,1): warning C4005: “MAX_STEP_TURN”: 宏重定义
+C:\Users\CMY\Desktop\Portfolio\Battle City-Chen Mingyuan portfolio-1\Battle City\Battle City\EnemyTank.h(6): message : 参见“MAX_STEP_TURN”的前一个定义
+C:\Users\CMY\Desktop\Portfolio\Battle City-Chen Mingyuan portfolio-1\Battle City\Battle City\main.cpp(130,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Battle City.vcxproj -> C:\Users\CMY\Desktop\Portfolio\Battle City-Chen Mingyuan portfolio-1\Battle City\Debug\Battle City.exe
