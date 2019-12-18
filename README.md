@@ -6,7 +6,7 @@
 3. Open the plug-in and select the Visual Studio compiler you need to install. ( ***Visual Studio 2019*** is recommended )  
 4. Then you can open this file to check  
 ## 2.Game guide
-1. You can check the 'User Guide' in the file to understand the game operation.  
+1. You can check the ***User Guide*** in the file to understand the game operation.  
 2. The initial health value of the game is 5; the initial number of enemies is 10; 10 points are scored for each enemy killed; 
 5 points are increased for each level increase; a health value is obtained for every 500 points; 
 a super weapon will appear in the third level to obtain Can be used later.  
