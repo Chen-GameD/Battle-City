@@ -2,7 +2,7 @@
 (*Both my childhood memories and the beginning of my career*)
 ## 1.Configuration
 1. Download and extract the files.  
-2. Go to the official website of EasyX and download the EasyX plugin. ( EasyX Website : ***https://easyx.cn/*** )  
+2. Go to the official website of EasyX and download (Click ***下载 EasyX***) the EasyX plugin. ( EasyX Website : ***https://easyx.cn/*** )  
 3. Open the plug-in and select the Visual Studio compiler you need to install. ( ***Visual Studio 2019*** is recommended )  
 4. Then you can open this file to check  
 ## 2.Game guide
